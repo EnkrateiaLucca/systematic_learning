@@ -1,23 +1,9 @@
-import webbrowser
 import pandas as pd
 import numpy as np
 import os
-import pathlib
-from googlesearch import search
 import webbrowser
-import pytube
-from utils import clip_video
 import time
 from datetime import datetime
-
-
-
-def generate_dataset():
-    youtube_search = literal_eval(YoutubeSearch(learn_query, max_results=10).to_json())
-    results = ["youtube.com" + item["link"] for item in youtube_search["videos"]]
-    google_searche_results = google_search_show(learn_query, num_links=10)
-
-    return results, google_searche_results
 
 
 def set_up_dataset(csv_file="dataset.csv",text_file='dataset.txt'):
