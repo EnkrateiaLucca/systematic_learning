@@ -20,5 +20,4 @@ python learn_this.py
 
 ### Final Remark
 The data for your learning sessions will be stored in the sessions folder (which will be created when you run the code for the first time)
-   		
 
