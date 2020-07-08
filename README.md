@@ -1,5 +1,5 @@
 # Systematic Learning 
-Repository for my medium post: ["A quick and simple AI-inspired way to learn a language"](https://medium.com/@lucas.soares/a-deep-learning-inspired-way-to-learn-a-language-using-python-e762754b8a5a)
+Repository for my medium post: ["A quick and simple AI-inspired way to learn a language"](https://medium.com/@lucas.soares/a-quick-and-simple-ai-inspired-way-to-learn-a-language-e762754b8a5a)
 
 ### Quick guide to use this repo
 
