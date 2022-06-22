@@ -1,4 +1,4 @@
 pandas==1.0.3
 pandas-flavor==0.2.0
 pandocfilters==1.4.2
-numpy==1.18.1
+numpy==1.22.0
